@@ -15,3 +15,7 @@ https://tryhackme.com/room/socl1alertreporting?utm_campaign=social_share&utm_med
 3. EDR
 
 https://tryhackme.com/room/introductiontoedrs?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=697b79884927a3553b88ed20
+
+3.1 SIEM
+
+https://tryhackme.com/room/introtosiem/congratulations?step=records

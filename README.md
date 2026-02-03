@@ -20,6 +20,6 @@ https://tryhackme.com/room/introductiontoedrs?utm_campaign=social_share&utm_medi
 
 https://tryhackme.com/room/introtosiem/congratulations?step=records
 
-4. Ciber kill chain
+4. Cyber kill chain
 
 https://tryhackme.com/room/cyberkillchainzmt/congratulations?step=records

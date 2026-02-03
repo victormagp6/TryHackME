@@ -19,3 +19,7 @@ https://tryhackme.com/room/introductiontoedrs?utm_campaign=social_share&utm_medi
 3.1 SIEM
 
 https://tryhackme.com/room/introtosiem/congratulations?step=records
+
+4. Ciber kill chain
+
+https://tryhackme.com/room/cyberkillchainzmt/congratulations?step=records

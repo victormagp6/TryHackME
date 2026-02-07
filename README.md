@@ -33,3 +33,7 @@ https://tryhackme.com/room/unifiedkillchain/congratulations?step=records
 https://tryhackme.com/room/phishingemails1tryoe/congratulations?step=records
 
 https://tryhackme.com/room/phishingemails2rytmuv/congratulations?step=records
+
+6. Network traffic
+
+https://tryhackme.com/room/networktrafficbasics/congratulations?step=records

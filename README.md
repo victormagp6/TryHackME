@@ -37,3 +37,7 @@ https://tryhackme.com/room/phishingemails2rytmuv/congratulations?step=records
 6. Network traffic
 
 https://tryhackme.com/room/networktrafficbasics/congratulations?step=records
+
+7. Network security
+
+https://tryhackme.com/room/networksecurityessentials?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=697b79884927a3553b88ed20
